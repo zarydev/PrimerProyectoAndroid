@@ -27,7 +27,7 @@
 
     <Button
         android:text="@string/txtButton"
-        android:padding="10dp"
+        android:padding="12dp"
         android:paddingStart="50dp"
         android:paddingEnd="50dp"
         android:layout_width="wrap_content"
